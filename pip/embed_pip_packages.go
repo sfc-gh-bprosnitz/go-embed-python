@@ -2,9 +2,9 @@ package pip
 
 import (
 	"fmt"
-	"github.com/kluctl/go-embed-python/embed_util"
-	"github.com/kluctl/go-embed-python/internal"
-	"github.com/kluctl/go-embed-python/python"
+	"github.com/sfc-gh-bprosnitz/go-embed-python/embed_util"
+	"github.com/sfc-gh-bprosnitz/go-embed-python/internal"
+	"github.com/sfc-gh-bprosnitz/go-embed-python/python"
 	"math/rand"
 	"os"
 	"path/filepath"

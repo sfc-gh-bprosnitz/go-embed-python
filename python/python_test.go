@@ -2,7 +2,7 @@ package python
 
 import (
 	"bytes"
-	"github.com/kluctl/go-embed-python/internal"
+	"github.com/sfc-gh-bprosnitz/go-embed-python/internal"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"testing"
