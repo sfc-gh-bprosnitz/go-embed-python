@@ -46,7 +46,7 @@ func bootstrapPip(ep *python.EmbeddedPython) {
 }
 
 func downloadGetPip() string {
-	resp, err := http.Get("https://bootstrap.pypa.io/get-pip.py")
+	resp, err := http.Get("https://bootstrap.pypa.io/pip/3.8/get-pip.py")
 	if err != nil {
 		panic(err)
 	}
