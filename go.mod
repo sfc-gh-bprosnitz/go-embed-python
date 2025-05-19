@@ -1,4 +1,4 @@
-module github.com/kluctl/go-embed-python
+module github.com/sfc-gh-bprosnitz/go-embed-python
 
 go 1.22
 
