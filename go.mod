@@ -1,6 +1,8 @@
 module github.com/kluctl/go-embed-python
 
-go 1.19
+go 1.22
+
+toolchain go1.23.5
 
 require (
 	github.com/gobwas/glob v0.2.3
